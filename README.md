@@ -13,6 +13,13 @@ A gamified to-do application  (╯°□°）╯︵ ┻━┻
 ###folder struct
 
 ```
-    api - backend
-    public - frontend
+    +-- cmd
+    |   +-- api
+    |   +-- frontend
+    |   +-- realtime
+    +-- frontend
+    +-- core
+    +-- api
+    +-- realtime
+    +-- public
 ```
